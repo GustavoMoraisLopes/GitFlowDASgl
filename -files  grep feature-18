@@ -1,0 +1,40 @@
+*   [33m81ab1b8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m Merge branch 'feature/minha-feature-19' into develop
+[31m|[m[32m\[m  
+[31m|[m * [33mb69ea15[m Adicionada minha-feature-19
+* [32m|[m [33m081229a[m Adicionada minha-feature-19
+* [32m|[m [33mfa87a83[m Adicionada minha-feature-18
+* [32m|[m   [33m08a1761[m Merge tag 'v1.1' into develop
+[33m|[m[34m\[m [32m\[m  
+[33m|[m * [32m\[m   [33m8123f5d[m[33m ([m[1;33mtag: [m[1;33mv1.1[m[33m, [m[1;32mmaster[m[33m)[m Merge branch 'release/v1.1'
+[33m|[m [35m|[m[33m\[m [32m\[m  
+[33m|[m [35m|[m[33m/[m [32m/[m  
+[33m|[m[33m/[m[35m|[m [32m|[m   
+* [35m|[m [32m|[m [33m0872150[m Adicionada minha-feature-8.2
+[36m|[m * [32m|[m   [33mcd4d8db[m[33m ([m[1;31morigin/master[m[33m)[m Merge branch 'release/v1.0'
+[36m|[m [1;31m|[m[36m\[m [32m\[m  
+[36m|[m [1;31m|[m[36m/[m [32m/[m  
+[36m|[m[36m/[m[1;31m|[m [32m|[m   
+* [1;31m|[m [32m|[m [33m4591d48[m Adicionada minha-feature-20
+[32m|[m [1;31m|[m[32m/[m  
+[32m|[m[32m/[m[1;31m|[m   
+* [1;31m|[m [33m2cf50ba[m Adicionada minha-feature-17
+* [1;31m|[m [33m5d4facb[m Adicionada minha-feature-16
+* [1;31m|[m [33m86eae0b[m Adicionada minha-feature-15
+* [1;31m|[m [33m8a022e6[m Adicionada minha-feature-14
+* [1;31m|[m [33m50e333a[m Adicionada minha-feature-13
+* [1;31m|[m [33m2fe5575[m Adicionada minha-feature-12
+* [1;31m|[m [33m3878570[m Adicionada minha-feature-11
+* [1;31m|[m [33m2fe076f[m Adicionada minha-feature-10
+* [1;31m|[m [33mdd8a334[m Adicionada minha-feature-9
+[1;32m|[m [1;31m|[m * [33m46c04a7[m[33m ([m[1;32mfeature/minha-feature-8[m[33m)[m Adicionada minha-feature-8
+[1;32m|[m [1;31m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;31m|[m   
+* [1;31m|[m [33mdebe85e[m Adicionada minha-feature-7
+* [1;31m|[m [33mdc99815[m Adicionada minha-feature-6
+* [1;31m|[m [33m3fd8938[m Adicionada minha-feature-5
+* [1;31m|[m [33mce55afa[m Adicionada minha-feature-4
+* [1;31m|[m [33m402e0f5[m Adicionada minha-feature-3
+* [1;31m|[m [33m5cdec09[m Adicionada minha-feature-2
+* [1;31m|[m [33m20fce76[m Adicionada minha-feature-1
+[1;31m|[m[1;31m/[m  
+* [33mc58f0c2[m Initial commit

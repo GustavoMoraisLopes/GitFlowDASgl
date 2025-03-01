@@ -1,0 +1,67 @@
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	"-files \357\201\274 grep feature-18"
+	git_state.txt
+	ter
+
+nothing added to commit but untracked files present (use "git add" to track)
+  develop
+  feature/minha-feature-8
+* master
+  remotes/origin/develop
+  remotes/origin/master
+hotfix1
+v1.1
+*   c269f08 (origin/develop, develop) Merge tag 'hotfix1' into develop
+|\  
+| * 088efe7 (HEAD -> master, tag: hotfix1, origin/master) Corrigido problema crítico hotfix5
+| * b64ddd9 Corrigido problema crítico hotfix4
+| * 9222f31 Corrigido problema crítico hotfix3
+| * 8db296f Corrigido problema crítico hotfix2
+| *   5e968c2 Merge branch 'hotfix/hotfix1'
+| |\  
+| | * bb0240f Corrigido problema crítico hotfix1
+| |/  
+* |   81ab1b8 Merge branch 'feature/minha-feature-19' into develop
+|\ \  
+| * | b69ea15 Adicionada minha-feature-19
+* | | 081229a Adicionada minha-feature-19
+* | | fa87a83 Adicionada minha-feature-18
+* | |   08a1761 Merge tag 'v1.1' into develop
+|\ \ \  
+| | |/  
+| |/|   
+| * |   8123f5d (tag: v1.1) Merge branch 'release/v1.1'
+| |\ \  
+| |/ /  
+|/| |   
+* | | 0872150 Adicionada minha-feature-8.2
+| * |   cd4d8db Merge branch 'release/v1.0'
+| |\ \  
+| |/ /  
+|/| |   
+* | | 4591d48 Adicionada minha-feature-20
+| |/  
+|/|   
+* | 2cf50ba Adicionada minha-feature-17
+* | 5d4facb Adicionada minha-feature-16
+* | 86eae0b Adicionada minha-feature-15
+* | 8a022e6 Adicionada minha-feature-14
+* | 50e333a Adicionada minha-feature-13
+* | 2fe5575 Adicionada minha-feature-12
+* | 3878570 Adicionada minha-feature-11
+* | 2fe076f Adicionada minha-feature-10
+* | dd8a334 Adicionada minha-feature-9
+| | * 46c04a7 (feature/minha-feature-8) Adicionada minha-feature-8
+| |/  
+|/|   
+* | debe85e Adicionada minha-feature-7
+* | dc99815 Adicionada minha-feature-6
+* | 3fd8938 Adicionada minha-feature-5
+* | ce55afa Adicionada minha-feature-4
+* | 402e0f5 Adicionada minha-feature-3
+* | 5cdec09 Adicionada minha-feature-2
+* | 20fce76 Adicionada minha-feature-1
+|/  
+* c58f0c2 Initial commit
